@@ -1,0 +1,27 @@
+********************************************************************************
+To upgrade theme please follow these steps:
+********************************************************************************
+
+NOTE: When using an ftp client, please make sure your Transfer mode is set to Binary before uploading any files.
+
+1. Download the upgrade from ThemeForest and unzip on your computer.
+2. Inside the downloaded zip file, unzip the contained SocialChef.zip
+3. Turn on maintenance on your website. You can use a plugin like this one for the purpose: https://wordpress.org/plugins/ultimate-maintenance-mode/
+4. Backup your languages folder inside wp-content/themes/SocialChef
+5. Delete all files and folders inside wp-content/themes/SocialChef parent folder except the languages folder if you have translations there.
+6. Upload contents of the above mentioned unzipped SocialChef.zip file to wp-content/themes/SocialChef.
+NOTE: While uploading your code, do not access your wordpress admin. Let the upload finish first.
+7. Clear your browser cache!
+8. Readd the contents of your languages folder into wp-content/themes/SocialChef/languages
+
+If using a child theme:
+
+9. Backup your child theme.
+10. Upgrade each php and js file in your child theme to latest version. 
+11. Re-add your code changes to the php and js files by using a text editor.
+
+And finally
+
+12. Turn off maintenance mode.
+13. Test your theme and website.
+********************************************************************************

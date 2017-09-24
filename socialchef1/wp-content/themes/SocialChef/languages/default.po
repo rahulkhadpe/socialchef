@@ -1,0 +1,3022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SocialChef\n"
+"POT-Creation-Date: 2016-11-08 16:11+0100\n"
+"PO-Revision-Date: 2016-11-08 16:11+0100\n"
+"Last-Translator: ThemeEnergy <support@themeenergy.com>\n"
+"Language-Team: ThemeEnergy <support@themeenergy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:26
+msgid "404"
+msgstr ""
+
+#: ../404.php:27
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:33
+msgid ""
+"The page you have requested could not be found or was removed from our "
+"database."
+msgstr ""
+
+#: ../404.php:34
+#, php-format
+msgid ""
+"If you believe that this is an error, please kindly <a href=\"%s\">contact "
+"us</a>. Thank you!"
+msgstr ""
+
+#: ../404.php:35
+#, php-format
+msgid "You can go <a href=\"%s\">back home</a> or try using the search."
+msgstr ""
+
+#: ../404.php:47 ../404.php:53 ../page-custom-search.php:203
+msgid "Search"
+msgstr ""
+
+#: ../404.php:50 ../includes/plugins/widgets/widget-search.php:60
+#: ../includes/plugins/widgets/widget-search.php:206
+msgid "Enter your search term"
+msgstr ""
+
+#: ../bbpress.php:43 ../buddypress.php:43 ../page-contact-form-7.php:21
+#: ../page-contact.php:64 ../page-custom-search.php:179
+#: ../page-recipe-list.php:133 ../page-user-submit-recipe.php:50
+#: ../page.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../blog.php:85 ../category.php:44 ../index.php:1 ../search.php:58
+#: ../tag.php:45
+msgid "Leave a comment"
+msgstr ""
+
+#: ../blog.php:86 ../category.php:45 ../index.php:1 ../search.php:59
+#: ../tag.php:46
+msgid "Read more"
+msgstr ""
+
+#: ../buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr ""
+
+#: ../buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:47
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: ../buddypress/groups/index.php:19
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/groups/index.php:22
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/groups/index.php:36 ../buddypress/members/index.php:35
+msgid "Order By:"
+msgstr ""
+
+#: ../buddypress/groups/index.php:39 ../buddypress/members/index.php:37
+msgid "Last Active"
+msgstr ""
+
+#: ../buddypress/groups/index.php:40
+msgid "Most Members"
+msgstr ""
+
+#: ../buddypress/groups/index.php:41
+msgid "Newly Created"
+msgstr ""
+
+#: ../buddypress/groups/index.php:42 ../buddypress/members/index.php:41
+msgid "Alphabetical"
+msgstr ""
+
+#: ../buddypress/members/activate.php:14
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: ../buddypress/members/activate.php:16
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: ../buddypress/members/activate.php:21
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: ../buddypress/members/activate.php:30
+msgid "Activation Key:"
+msgstr ""
+
+#: ../buddypress/members/activate.php:34
+#: ../includes/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../buddypress/members/index.php:19
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/members/index.php:22
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/members/index.php:38
+msgid "Newest Registered"
+msgstr ""
+
+#: ../buddypress/members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../buddypress/members/register.php:17
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: ../buddypress/members/register.php:26
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: ../buddypress/members/register.php:34
+msgid "Account Details"
+msgstr ""
+
+#: ../buddypress/members/register.php:38 ../page-user-signup.php:200
+msgid "Username"
+msgstr ""
+
+#: ../buddypress/members/register.php:38 ../buddypress/members/register.php:43
+#: ../buddypress/members/register.php:48 ../buddypress/members/register.php:54
+#: ../buddypress/members/register.php:150
+#: ../buddypress/members/register.php:152
+#: ../buddypress/members/register.php:158
+msgid "(required)"
+msgstr ""
+
+#: ../buddypress/members/register.php:43
+msgid "Email Address"
+msgstr ""
+
+#: ../buddypress/members/register.php:48
+msgid "Choose a Password"
+msgstr ""
+
+#: ../buddypress/members/register.php:54
+msgid "Confirm Password"
+msgstr ""
+
+#: ../buddypress/members/register.php:71
+msgid "Profile Details"
+msgstr ""
+
+#: ../buddypress/members/register.php:91
+#: ../buddypress/members/register.php:106
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: ../buddypress/members/register.php:96
+msgid "Who can see this field?"
+msgstr ""
+
+#: ../buddypress/members/register.php:101
+msgid "Close"
+msgstr ""
+
+#: ../buddypress/members/register.php:138
+msgid "Blog Details"
+msgstr ""
+
+#: ../buddypress/members/register.php:141
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: ../buddypress/members/register.php:150
+#: ../buddypress/members/register.php:152
+msgid "Blog URL"
+msgstr ""
+
+#: ../buddypress/members/register.php:158
+msgid "Site Title"
+msgstr ""
+
+#: ../buddypress/members/register.php:162
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: ../buddypress/members/register.php:165
+msgid "Yes"
+msgstr ""
+
+#: ../buddypress/members/register.php:166
+msgid "No"
+msgstr ""
+
+#: ../buddypress/members/register.php:182
+msgid "Complete Sign Up"
+msgstr ""
+
+#: ../buddypress/members/register.php:197
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: ../buddypress/members/register.php:199
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#: ../category.php:18 ../taxonomy-recipe_category.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../category.php:53 ../includes/plugins/widgets/widget-post-list.php:154
+#: ../includes/plugins/widgets/widget-recipe-list.php:137
+#: ../page-custom-search.php:357 ../page-recipe-list.php:158 ../tag.php:54
+#: ../taxonomy-ingredient.php:38 ../taxonomy-recipe_category.php:38
+#: ../taxonomy-recipe_difficulty.php:38 ../taxonomy-recipe_meal_course.php:38
+msgid "Back to top"
+msgstr ""
+
+#: ../comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:19
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid "One comment"
+msgstr ""
+
+#: ../comments.php:19
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "No comments yet, be the first to leave one!"
+msgstr ""
+
+#: ../comments.php:35
+#, php-format
+msgid ""
+"You must be <a href=\"%s/wp-login.php?redirect_to=%s\">logged in</a> to post "
+"a comment."
+msgstr ""
+
+#: ../comments.php:41
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: ../comments.php:41
+#, php-format
+msgid "<a href=\"%s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:45
+msgid ""
+"<strong>Note:</strong> Comments on the web site reflect the views of their "
+"respective authors, and not necessarily the views of this web portal. "
+"Members are requested to refrain from insults, swearing and vulgar "
+"expression. We reserve the right to delete any comment without notice or "
+"explanations."
+msgstr ""
+
+#: ../comments.php:46
+msgid ""
+"Your email address will not be published. Required fields are signed with "
+"<span class=\"req\">*</span>"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:75 ../page-user-signup.php:206
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Website"
+msgstr ""
+
+#: ../footer.php:44 ../header.php:65 ../header.php:80
+#: ../includes/theme_filters.php:87 ../includes/theme_utils.php:142
+#: ../includes/theme_utils.php:148 ../includes/theme_utils.php:175
+#: ../includes/theme_utils.php:255
+msgid "Home"
+msgstr ""
+
+#: ../footer.php:45 ../header.php:81
+msgid "Configure"
+msgstr ""
+
+#: ../functions.php:176
+#: ../includes/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:177
+#: ../includes/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../functions.php:178
+#: ../includes/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:179
+#: ../includes/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:190
+#: ../includes/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:191
+#: ../includes/plugins/class-tgm-plugin-activation.php:394
+#: ../includes/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:192
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../header.php:65
+msgid "SocialChef.com"
+msgstr ""
+
+#: ../header.php:87 ../page-custom-search.php:334
+msgid "Search for recipes"
+msgstr ""
+
+#: ../header.php:88
+msgid "My account"
+msgstr ""
+
+#: ../header.php:89
+msgid "Submit a recipe"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:90
+#: ../includes/framework/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:197
+msgid "Save Options"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:198
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:229
+msgid "Default options restored."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-framework-admin.php:283
+msgid "Options saved."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:66
+#: ../includes/framework/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:68
+#: ../includes/framework/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../includes/framework/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: ../includes/framework/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: ../includes/parts/post-item.php:15
+msgid "View post"
+msgstr ""
+
+#: ../includes/parts/recipe-item.php:15
+msgid "Edit recipe"
+msgstr ""
+
+#: ../includes/parts/recipe-item.php:22
+#: ../includes/plugins/widgets/widget-featured-recipe.php:81
+msgid "View recipe"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:32
+#, php-format
+msgid "%s in numbers"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:42
+msgid "members"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:52
+msgid "recipes"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:62
+msgid "photos"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:73
+msgid "forum posts"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:84
+msgid "comments"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:94
+msgid "articles"
+msgstr ""
+
+#: ../includes/parts/socialchef-in-numbers.php:100
+msgid "Join us!"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../includes/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. translators: %s: version number
+#: ../includes/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2406
+#: ../includes/plugins/widgets/widget_buddypress-members.php:80
+#: ../includes/plugins/widgets/widget_buddypress-members.php:162
+msgid "Active"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../includes/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2639
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1505
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:571
+msgid "New Recipe Submission"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:573
+#, php-format
+msgid "A new recipe has been submitted on your website: %s"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:575
+#, php-format
+msgid ""
+"To view the newly submitted recipe please follow the link bellow:\n"
+"%s"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:760
+msgid "Your file was successfully uploaded!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:764
+msgid "Your recipe was successfully created!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:768
+#, php-format
+msgid "Your recipe was successfully updated! <a href=\"%s\">View</a>"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:772
+msgid "There was an error with your submission"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:779
+msgid ""
+"You are currently editing your selected recipe. Click \"Submit\" to save "
+"your changes."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:821
+msgid "Security check failed!"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:824
+msgid "This kind of file is not allowed. Please, try selecting another file."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:828
+msgid "The content you are trying to post is invalid."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:831
+msgid "Couldn't upload the file"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:834
+msgid "Couldn't create the post"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:837
+msgid "User does not own recipe specified"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1082
+msgid "Select preparation time (minutes)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1087
+msgid "Select cook time (minutes)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1094
+#: ../single-recipe.php:94
+msgid "Preparation time"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1103
+#: ../single-recipe.php:98
+msgid "Cooking time"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1112
+msgid "Select serving (people)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1113
+msgid "Serving"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1133
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1138
+#: ../includes/plugins/widgets/widget-search.php:57
+#: ../includes/plugins/widgets/widget-search.php:203
+#: ../page-custom-search.php:276
+msgid "Select difficulty"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1150
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1155
+#: ../includes/plugins/widgets/widget-search.php:58
+#: ../includes/plugins/widgets/widget-search.php:204
+#: ../page-custom-search.php:253
+msgid "Select meal course"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1177
+#: ../includes/plugins/widgets/widget-featured-recipe.php:184
+#: ../includes/plugins/widgets/widget-recipe-list.php:256
+msgid "Recipe categories"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1190
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1354
+msgid "Enter instruction"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1224
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1351
+#: ../includes/post_types/recipes_post_type.php:503
+#: ../includes/theme_meta_boxes.php:190
+msgid "Ingredient"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1235
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1282
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1350
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1352
+msgid "Quantity"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1247
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1252
+msgid "Select ingredient unit"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1271
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1353
+#: ../includes/post_types/recipes_post_type.php:585
+#: ../includes/theme_meta_boxes.php:225
+msgid "Nutritional element"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1294
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1299
+msgid "Select nutritional unit"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1334
+msgid ""
+"Errors were encountered when processing your submission. Please correct them "
+"and submit again."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1355
+msgid "Publish this recipe"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1356
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1541
+msgid "Save this recipe"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1359
+msgid "Basics"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1360
+msgid "All fields are required."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1374
+msgid "Title"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1384
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1388
+msgid "Description"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1401
+msgid "Instruction image"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1405
+#: ../includes/theme_meta_boxes.php:99
+msgid "Instructions"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1405
+msgid "(enter instructions, one step at a time)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1421
+msgid "Add a new step"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1427
+#: ../includes/post_types/recipes_post_type.php:502
+#: ../includes/post_types/recipes_post_type.php:516
+#: ../includes/theme_meta_boxes.php:174
+msgid "Ingredients"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1443
+msgid "Add an ingredient"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1449
+#: ../includes/post_types/recipes_post_type.php:584
+#: ../includes/post_types/recipes_post_type.php:598
+msgid "Nutritional elements"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1465
+msgid "Add a nutritional element"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1470
+msgid "Photo"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1505
+msgid ""
+"(would you like to further edit this recipe or are you ready to publish it?)"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1507
+msgid ""
+"The administrator of this website has opted to review submissions before "
+"publishing. After you hit submit, your recipe will be published as soon as "
+"the administrator has reviewed it."
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1511
+msgid "I am still working on it"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1519
+msgid "This recipe is published"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1521
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1527
+msgid "I am ready to publish this recipe"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1535
+#, php-format
+msgid ""
+"Do you agree to our <a target=\"_blank\" href=\"%s\">terms and conditions</"
+"a>?"
+msgstr ""
+
+#: ../includes/plugins/frontend-submit/frontend-submit.php:1544
+msgid "Proceed"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-about.php:29
+#: ../includes/plugins/widgets/widget-about.php:35
+msgid "SocialChef: About Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-about.php:96
+#: ../includes/plugins/widgets/widget-contact.php:107
+#: ../includes/plugins/widgets/widget-featured-member.php:152
+#: ../includes/plugins/widgets/widget-featured-recipe.php:163
+#: ../includes/plugins/widgets/widget-home-intro.php:150
+#: ../includes/plugins/widgets/widget-post-list.php:221
+#: ../includes/plugins/widgets/widget-recipe-categories.php:155
+#: ../includes/plugins/widgets/widget-recipe-list.php:218
+#: ../includes/plugins/widgets/widget-search.php:214
+#: ../includes/plugins/widgets/widget-social.php:143
+#: ../includes/plugins/widgets/widget_buddypress-members.php:152
+msgid "Title:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-about.php:101
+msgid "About text:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-contact.php:29
+#: ../includes/plugins/widgets/widget-contact.php:35
+msgid "SocialChef: Contact Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-contact.php:63
+msgid "Need help?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-contact.php:65
+msgid "Contact us via phone or email"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-contact.php:112
+msgid "Company phone:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-contact.php:117
+msgid "Company email:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:27
+#: ../includes/plugins/widgets/widget-featured-member.php:33
+msgid "SocialChef: Featured Member"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:49
+msgid "Display latest members"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:99
+msgid "View member"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:108
+msgid "Recipes by this user"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:109
+msgid "See past featured members"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-member.php:146
+msgid "Featured member"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:27
+#: ../includes/plugins/widgets/widget-featured-recipe.php:33
+msgid "SocialChef: Featured Recipe"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:49
+msgid "Display featured recipe"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:90
+msgid "See the full recipe"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:91
+msgid "See past featured recipes"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:152
+msgid "Featured recipe"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:168
+#: ../includes/plugins/widgets/widget-post-list.php:235
+#: ../includes/plugins/widgets/widget-recipe-list.php:232
+msgid "What do you want to sort the posts by?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:170
+#: ../includes/plugins/widgets/widget-post-list.php:237
+#: ../includes/plugins/widgets/widget-recipe-list.php:234
+msgid "Post Title"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:171
+#: ../includes/plugins/widgets/widget-post-list.php:238
+#: ../includes/plugins/widgets/widget-recipe-list.php:235
+msgid "Post ID"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:172
+#: ../includes/plugins/widgets/widget-post-list.php:239
+#: ../includes/plugins/widgets/widget-recipe-list.php:236
+#: ../includes/theme_meta_boxes.php:43
+msgid "Random"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:173
+#: ../includes/plugins/widgets/widget-post-list.php:240
+#: ../includes/plugins/widgets/widget-recipe-list.php:237
+msgid "Publish Date"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:174
+#: ../includes/plugins/widgets/widget-post-list.php:241
+#: ../includes/plugins/widgets/widget-recipe-list.php:238
+msgid "Comment Count"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:179
+#: ../includes/plugins/widgets/widget-post-list.php:246
+#: ../includes/plugins/widgets/widget-recipe-list.php:243
+msgid "Sort posts in descending order?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:203
+#: ../includes/plugins/widgets/widget-recipe-list.php:274
+msgid "Recipe difficulties"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-featured-recipe.php:223
+#: ../includes/plugins/widgets/widget-recipe-list.php:292
+#: ../includes/theme_meta_boxes.php:137
+msgid "Recipe meal course"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:27
+#: ../includes/plugins/widgets/widget-home-intro.php:33
+msgid "SocialChef: Home Intro"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:50
+msgid "Welcome to SocialChef"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:52
+#: ../includes/plugins/widgets/widget-home-intro.php:140
+msgid ""
+"<p>SocialChef is the ultimate cooking social community, where recipes come "
+"to life. By joining us you will join a robust foodie community and where you "
+"will get to share your recipes and food ideas with hundreds of other like-"
+"minded members.</p><p>You will also get a chance to win awesome prizes, make "
+"new friends and share delicious recipes.</p>"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:53
+#: ../includes/plugins/widgets/widget-home-intro.php:141
+msgid ""
+"<p>SocialChef is the ultimate cooking social community, where recipes come "
+"to life. </p><p>Thank you for logging in. Please browse the website using "
+"the options in the menu above or the features listed below!</p>"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:54
+#: ../includes/plugins/widgets/widget-home-intro.php:142
+msgid "Join our community"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:56
+#: ../includes/plugins/widgets/widget-home-intro.php:144
+#, php-format
+msgid "<p>Already a member? Click <a href='%s'>here</a> to login.</p>"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:127 ../options.php:47
+msgid "Select page"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:139
+#: ../includes/plugins/widgets/widget-recipe-categories.php:147
+msgid "Welcome to SocialChef!"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:155
+msgid "Home Intro teaser:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:160
+msgid "Home Intro teaser (when logged in):"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:165
+msgid "Home Intro button text:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:170
+msgid "Home Intro button link:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-home-intro.php:181
+msgid "Home Intro below button text:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:27
+#: ../includes/plugins/widgets/widget-post-list.php:33
+msgid "SocialChef: Post List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:56
+msgid "Display latest posts"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:153
+msgid "More posts"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:208
+msgid "Latest posts"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:226
+msgid "How many posts do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:251
+#: ../includes/plugins/widgets/widget-recipe-list.php:248
+msgid "Display mode?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:253
+#: ../includes/plugins/widgets/widget-recipe-list.php:250
+msgid "Small (usually sidebar)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:254
+#: ../includes/plugins/widgets/widget-recipe-list.php:251
+msgid "Card (usually in grid view)"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:259
+msgid "Post categories"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:277
+msgid "Show only featured posts?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-post-list.php:282
+#: ../includes/plugins/widgets/widget-recipe-list.php:315
+msgid "How many posts do you want to display per row?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-categories.php:27
+#: ../includes/plugins/widgets/widget-recipe-categories.php:33
+msgid "SocialChef: Recipe Categories"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-categories.php:44
+msgid "Recipe categories title"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-categories.php:160
+msgid "Show category boxes with icons?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-categories.php:165
+msgid "How many categories do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:27
+#: ../includes/plugins/widgets/widget-recipe-list.php:33
+msgid "SocialChef: Recipe List"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:56
+msgid "Display latest recipes"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:136
+msgid "More recipes"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:203
+msgid "Latest recipes"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:223
+msgid "How many recipes do you want to display?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-recipe-list.php:310
+#: ../includes/theme_meta_boxes.php:79
+msgid "Show only featured recipes?"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:33
+#: ../includes/plugins/widgets/widget-search.php:39
+msgid "SocialChef: Search"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:55
+#: ../includes/plugins/widgets/widget-search.php:202
+msgid "Refine search results"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:59
+#: ../includes/plugins/widgets/widget-search.php:205
+#: ../page-custom-search.php:230
+msgid "Select category"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:61
+#: ../includes/plugins/widgets/widget-search.php:207
+msgid ""
+"<p>All you need to do is enter an ingredient, a dish or a keyword.</p><p>You "
+"can also select a specific category from the dropdown.</p><p>There's sure to "
+"be something tempting for you to try.</p><p>Enjoy!</p>"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:62
+#: ../includes/plugins/widgets/widget-search.php:208
+msgid "Start cooking!"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:219
+msgid "Search difficulty placeholder:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:224
+msgid "Search meal course placeholder:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:229
+msgid "Search category placeholder:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:233
+msgid "Search term placeholder:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:237
+msgid "Search intro text:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-search.php:241
+msgid "Submit button"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:29
+#: ../includes/plugins/widgets/widget-share.php:35
+msgid "SocialChef: Share"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:63
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:63
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:64
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:64
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:65
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-share.php:65
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:29
+#: ../includes/plugins/widgets/widget-social.php:35
+msgid "SocialChef: Social Widget"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:148
+msgid "Facebook ID:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:153
+msgid "Twitter ID:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:158
+msgid "Youtube url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:163
+msgid "Rss feed:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:168
+msgid "LinkedIn url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:173
+msgid "GPlus url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:178
+msgid "Vimeo profile:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:183
+msgid "Pinterest url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget-social.php:188
+msgid "Instagram url:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:28
+#: ../includes/plugins/widgets/widget_buddypress-members.php:34
+msgid "SocialChef: BuddyPress Members"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:79
+#: ../includes/plugins/widgets/widget_buddypress-members.php:161
+msgid "Newest"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:82
+#: ../includes/plugins/widgets/widget_buddypress-members.php:163
+msgid "Popular"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:105
+msgid "No one has signed up yet!"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:139
+msgid "Members"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:154
+msgid "Link widget title to Members directory"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:156
+msgid "Max members to show:"
+msgstr ""
+
+#: ../includes/plugins/widgets/widget_buddypress-members.php:159
+msgid "Default members to show:"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:329
+#: ../includes/post_types/recipes_post_type.php:331
+#: ../includes/theme_utils.php:275 ../options.php:251
+msgid "Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:330
+msgid "Recipe"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:332
+msgid "All Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:333
+msgid "View Recipe"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:334
+msgid "Add New Recipe"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:335
+msgid "New Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:336
+msgid "Edit Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:337
+msgid "Update Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:338
+msgid "Search Recipes"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:339
+msgid "No Recipes found"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:340
+msgid "No Recipes found in Trash"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:343
+msgid "recipe"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:344
+msgid "Recipe information pages"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:376
+#: ../includes/post_types/recipes_post_type.php:377
+#: ../includes/post_types/recipes_post_type.php:390
+#: ../includes/theme_meta_boxes.php:48 ../single-recipe.php:115
+msgid "Meal course"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:378
+msgid "Search Meal courses"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:379
+msgid "All Meal courses"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:382
+msgid "Edit Meal course"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:383
+msgid "Update Meal course"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:384
+msgid "Add New Meal course"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:385
+msgid "New Meal course Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:386
+msgid "Separate meal courses with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:387
+msgid "Add or remove meal courses"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:388
+msgid "Choose from the most used meal courses"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:389
+msgid "No meal courses found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:418
+#: ../includes/post_types/recipes_post_type.php:432 ../single.php:35
+msgid "Categories"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:419
+#: ../includes/theme_meta_boxes.php:60
+msgid "Category"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:420
+msgid "Search categories"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:421
+msgid "All categories"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:424
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:425
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:426
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:427
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:428
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:429
+msgid "Add or remove categories"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:430
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:431
+msgid "No categories found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:460
+#: ../includes/post_types/recipes_post_type.php:461
+#: ../includes/post_types/recipes_post_type.php:474
+#: ../includes/theme_meta_boxes.php:54 ../single-recipe.php:104
+msgid "Difficulty"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:462
+msgid "Search Difficulties"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:463
+msgid "All Difficulties"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:466
+msgid "Edit Difficulty"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:467
+msgid "Update Difficulty"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:468
+msgid "Add New Difficulty"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:469
+msgid "New Difficulty Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:470
+msgid "Separate difficulties with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:471
+msgid "Add or remove difficulties"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:472
+msgid "Choose from the most used difficulties"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:473
+msgid "No difficulties found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:504
+msgid "Search Ingredients"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:505
+msgid "All Ingredients"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:508
+msgid "Edit Ingredient"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:509
+msgid "Update Ingredient"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:510
+msgid "Add New Ingredient"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:511
+msgid "New Ingredient Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:512
+msgid "Separate ingredients with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:513
+msgid "Add or remove ingredients"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:514
+msgid "Choose from the most used ingredients"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:515
+msgid "No ingredients found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:542
+#: ../includes/post_types/recipes_post_type.php:556
+msgid "Ingredient Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:543
+msgid "Ingredient Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:544
+msgid "Search Ingredient Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:545
+msgid "All Ingredient Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:548
+msgid "Edit Ingredient Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:549
+msgid "Update Ingredient Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:550
+msgid "Add New Ingredient Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:551
+msgid "New Ingredient Unit Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:552
+msgid "Separate ingredient units with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:553
+msgid "Add or remove ingredient units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:554
+msgid "Choose from the most used ingredient units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:555
+msgid "No ingredient units found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:586
+msgid "Search Nutritional elements"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:587
+msgid "All Nutritional elements"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:590
+msgid "Edit Nutritional element"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:591
+msgid "Update Nutritional element"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:592
+msgid "Add New Nutritional element"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:593
+msgid "New Nutritional element Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:594
+msgid "Separate nutritional elements with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:595
+msgid "Add or remove nutritional elements"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:596
+msgid "Choose from the most used nutritional elements"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:597
+msgid "No nutritional elements found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:624
+#: ../includes/post_types/recipes_post_type.php:638
+msgid "Nutritional Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:625
+msgid "Nutritional Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:626
+msgid "Search Nutritional Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:627
+msgid "All Nutritional Units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:630
+msgid "Edit Nutritional Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:631
+msgid "Update Nutritional Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:632
+msgid "Add New Nutritional Unit"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:633
+msgid "New Nutritional Unit Name"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:634
+msgid "Separate nutritional units with commas"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:635
+msgid "Add or remove nutritional units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:636
+msgid "Choose from the most used nutritional units"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:637
+msgid "No nutritional units found."
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:693
+#: ../includes/post_types/recipes_post_type.php:718
+msgid "Css class"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:702
+#: ../includes/post_types/recipes_post_type.php:731
+msgid ""
+"What is the css class used by this category in order to display appropriate "
+"category icon in front end"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:754
+#: ../includes/post_types/recipes_post_type.php:769
+#: ../includes/post_types/recipes_post_type.php:794
+#: ../includes/post_types/recipes_post_type.php:809
+msgid "Abbreviation"
+msgstr ""
+
+#: ../includes/post_types/recipes_post_type.php:756
+#: ../includes/post_types/recipes_post_type.php:771
+#: ../includes/post_types/recipes_post_type.php:796
+#: ../includes/post_types/recipes_post_type.php:811
+msgid "What is the abbreviation (short form) of your unit"
+msgstr ""
+
+#: ../includes/theme_actions.php:139
+#, php-format
+msgid "Recipes <span class=\"%s\">%s</span>"
+msgstr ""
+
+#: ../includes/theme_actions.php:149
+msgid "My Recipes"
+msgstr ""
+
+#: ../includes/theme_actions.php:159
+msgid "Favorite Recipes"
+msgstr ""
+
+#: ../includes/theme_actions.php:201
+msgid "Primary Menu"
+msgstr ""
+
+#: ../includes/theme_actions.php:202
+msgid "Footer Menu"
+msgstr ""
+
+#: ../includes/theme_actions.php:239
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:241
+msgid "This Widget area is used for the left sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:250
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:252
+msgid "This Widget area is used for the right sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:261
+msgid "Under Header Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:263
+msgid "This Widget area is placed under the website header"
+msgstr ""
+
+#: ../includes/theme_actions.php:272
+msgid "Above Footer Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:274
+msgid "This Widget area is placed above the website footer"
+msgstr ""
+
+#: ../includes/theme_actions.php:283
+msgid "Right Sidebar Recipe"
+msgstr ""
+
+#: ../includes/theme_actions.php:285
+msgid ""
+"This Widget area is used for the right sidebar of the single recipe screen"
+msgstr ""
+
+#: ../includes/theme_actions.php:294
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:296
+msgid "This Widget area is used for the footer area"
+msgstr ""
+
+#: ../includes/theme_actions.php:305
+msgid "Header Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:307
+msgid ""
+"This Widget area is used for the header area (usually for purposes of "
+"displaying WPML language switcher widget)"
+msgstr ""
+
+#: ../includes/theme_actions.php:317
+msgid "Home Intro Sidebar"
+msgstr ""
+
+#: ../includes/theme_actions.php:319
+msgid ""
+"This Widget area is used for the home intro area (usually for purposes of "
+"displaying hero unit and search widget)"
+msgstr ""
+
+#: ../includes/theme_actions.php:329
+msgid "Home Featured Content"
+msgstr ""
+
+#: ../includes/theme_actions.php:331
+msgid "This Widget area is used for the home featured content area"
+msgstr ""
+
+#: ../includes/theme_actions.php:341
+msgid "Home Main Content"
+msgstr ""
+
+#: ../includes/theme_actions.php:343
+msgid ""
+"This Widget area is used for the home main content area to display post and "
+"recipe lists as well as other widgets"
+msgstr ""
+
+#: ../includes/theme_actions.php:515
+msgid "Extra profile information"
+msgstr ""
+
+#: ../includes/theme_actions.php:518 ../includes/theme_meta_boxes.php:88
+msgid "Is Featured"
+msgstr ""
+
+#: ../includes/theme_actions.php:521
+msgid "Is this member featured on our website?"
+msgstr ""
+
+#: ../includes/theme_actions.php:525
+msgid "Featured from date"
+msgstr ""
+
+#: ../includes/theme_actions.php:528
+msgid "From what date is this member featured"
+msgstr ""
+
+#: ../includes/theme_actions.php:575
+msgid "Password"
+msgstr ""
+
+#: ../includes/theme_actions.php:581
+msgid "Repeat password"
+msgstr ""
+
+#: ../includes/theme_filters.php:130
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/theme_filters.php:140
+#, php-format
+msgid "%1$s submitted a new recipe, %2$s, on the site %3$s"
+msgstr ""
+
+#: ../includes/theme_filters.php:142
+#, php-format
+msgid "%1$s submitted a new recipe, %2$s"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:24 ../options.php:355
+msgid "No sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:25 ../options.php:356
+msgid "Left sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:26 ../options.php:357
+msgid "Right sidebar"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:27 ../options.php:358
+msgid "Left and right sidebars"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:31
+msgid "Select sidebar positioning"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:40
+msgid "Recipe title"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:41
+msgid "Recipe ID"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:42
+msgid "Publish date"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:44
+msgid "Comment count"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:66
+msgid "Sort by field"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:73
+msgid "Sort descending?"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:74
+msgid "If checked, will sort recipes in descending order"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:80
+msgid "If checked, will show only recipes marked as featured"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:89
+msgid "Show in lists where only featured items are shown."
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:100
+msgid "Instructions for creating this recipe (step by step)"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:110
+msgid "Instruction"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:120
+msgid "Image"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:131
+msgid "Recipe difficulty"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:143
+msgid "Preparation time (in minutes)"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:152
+msgid "Cooking time (in minutes)"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:161
+msgid "Serving (number of people)"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:175
+msgid "Ingredients for creating this recipe"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:185 ../includes/theme_meta_boxes.php:220
+msgid "Amount"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:196
+msgid "Ingredient unit"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:209
+msgid "Nutritional values"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:210
+msgid "Nutritional values for creating this recipe"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:231
+msgid "Nutritional unit"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:248 ../includes/theme_meta_boxes.php:255
+msgid "Extra information"
+msgstr ""
+
+#: ../includes/theme_meta_boxes.php:269
+msgid "Sidebar selection"
+msgstr ""
+
+#: ../includes/theme_utils.php:150
+msgid "Blog"
+msgstr ""
+
+#: ../includes/theme_utils.php:207
+msgid "Register an account"
+msgstr ""
+
+#: ../includes/theme_utils.php:220
+msgid "Create"
+msgstr ""
+
+#: ../includes/theme_utils.php:265
+msgid "Error 404 - Page not found"
+msgstr ""
+
+#: ../includes/theme_utils.php:268
+msgid "Search results for: "
+msgstr ""
+
+#: ../includes/theme_utils.php:343
+msgid "&lt;"
+msgstr ""
+
+#: ../includes/theme_utils.php:344
+msgid "&gt;"
+msgstr ""
+
+#: ../includes/theme_utils.php:353
+msgid "&laquo;"
+msgstr ""
+
+#: ../includes/theme_utils.php:362
+msgid "&raquo;"
+msgstr ""
+
+#: ../includes/theme_utils.php:392
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/theme_utils.php:395
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/theme_utils.php:399
+msgid "said on"
+msgstr ""
+
+#: ../includes/theme_utils.php:441
+#, php-format
+msgid "%s - Reset Password Request"
+msgstr ""
+
+#: ../includes/theme_utils.php:442
+msgid "To reset your password please go to the following url: "
+msgstr ""
+
+#: ../includes/theme_utils.php:447
+msgid "This link will remain valid for the next 24 hours."
+msgstr ""
+
+#: ../includes/theme_utils.php:448
+msgid "In case you did not request a password reset, please ignore this email."
+msgstr ""
+
+#: ../includes/theme_utils.php:494
+msgid " - New Password "
+msgstr ""
+
+#: ../includes/theme_utils.php:495
+msgid "Your password was successfully reset. "
+msgstr ""
+
+#: ../includes/theme_utils.php:498
+msgid "Your new password is:"
+msgstr ""
+
+#: ../includes/theme_utils.php:534
+msgid " - User Activation "
+msgstr ""
+
+#: ../includes/theme_utils.php:535
+msgid "To activate your user account, please click the activation link below: "
+msgstr ""
+
+#: ../index.php:1
+#, php-format
+msgid "%s Blog"
+msgstr ""
+
+#: ../options.php:31
+msgid "Default"
+msgstr ""
+
+#: ../options.php:32
+msgid "Black"
+msgstr ""
+
+#: ../options.php:33
+msgid "Blue"
+msgstr ""
+
+#: ../options.php:34
+msgid "Brown"
+msgstr ""
+
+#: ../options.php:35
+msgid "Green"
+msgstr ""
+
+#: ../options.php:36
+msgid "Grey"
+msgstr ""
+
+#: ../options.php:37
+msgid "Orange"
+msgstr ""
+
+#: ../options.php:38
+msgid "Pink"
+msgstr ""
+
+#: ../options.php:39
+msgid "Purple"
+msgstr ""
+
+#: ../options.php:40
+msgid "Red"
+msgstr ""
+
+#: ../options.php:41
+msgid "Teal"
+msgstr ""
+
+#: ../options.php:42
+msgid "Yellow"
+msgstr ""
+
+#: ../options.php:55
+msgid "General Settings"
+msgstr ""
+
+#: ../options.php:59
+msgid "Website logo"
+msgstr ""
+
+#: ../options.php:60
+msgid "Upload your website logo to go in place of default theme logo."
+msgstr ""
+
+#: ../options.php:65
+msgid "Select color scheme"
+msgstr ""
+
+#: ../options.php:66
+msgid "Select website color scheme."
+msgstr ""
+
+#: ../options.php:74
+msgid "Enable RTL"
+msgstr ""
+
+#: ../options.php:75
+msgid "Enable right-to-left support"
+msgstr ""
+
+#: ../options.php:81
+msgid "Footer copyright notice"
+msgstr ""
+
+#: ../options.php:82
+msgid "Copyright notice in footer."
+msgstr ""
+
+#: ../options.php:88
+msgid "Footer call to action"
+msgstr ""
+
+#: ../options.php:89
+msgid ""
+"Footer call to action text. If left blank, call to action will not be shown."
+msgstr ""
+
+#: ../options.php:91
+msgid "Already convinced? Join us by registering right now."
+msgstr ""
+
+#: ../options.php:95
+msgid "Footer call to action button"
+msgstr ""
+
+#: ../options.php:96
+msgid ""
+"Footer call to action button text. If call to action (above) text is left "
+"blank, call to action button will not be shown."
+msgstr ""
+
+#: ../options.php:98
+msgid "Join Us"
+msgstr ""
+
+#: ../options.php:102
+msgid "Footer call to action link"
+msgstr ""
+
+#: ../options.php:103
+msgid "Footer call to action link url."
+msgstr ""
+
+#: ../options.php:109
+msgid "WP Settings"
+msgstr ""
+
+#: ../options.php:113
+msgid "Override wp-login.php"
+msgstr ""
+
+#: ../options.php:114
+msgid ""
+"Override wp-login.php and use custom login, register, forgot password pages"
+msgstr ""
+
+#: ../options.php:121
+msgid "Users specify password"
+msgstr ""
+
+#: ../options.php:122
+msgid "Let users specify their password when registering"
+msgstr ""
+
+#: ../options.php:129
+msgid "Page Settings"
+msgstr ""
+
+#: ../options.php:133
+msgid "Search recipes page url"
+msgstr ""
+
+#: ../options.php:134
+msgid "Page that displays custom recipe search form and results."
+msgstr ""
+
+#: ../options.php:142
+msgid "Redirect to after login"
+msgstr ""
+
+#: ../options.php:143
+msgid ""
+"Page to redirect to after login if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:151
+msgid "Redirect to after logout"
+msgstr ""
+
+#: ../options.php:152
+msgid ""
+"Page to redirect to after logout if \"Override wp-login.php\" is checked "
+"above"
+msgstr ""
+
+#: ../options.php:160
+msgid "Login page url"
+msgstr ""
+
+#: ../options.php:161
+msgid "Login page url if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:169
+msgid "Register page url"
+msgstr ""
+
+#: ../options.php:170
+msgid "Register page url if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:178
+msgid "Reset password page url"
+msgstr ""
+
+#: ../options.php:179
+msgid "Reset password page url if \"Override wp-login.php\" is checked above"
+msgstr ""
+
+#: ../options.php:187 ../options.php:188
+msgid "Contact us page url"
+msgstr ""
+
+#: ../options.php:196
+msgid "Show \"socialchef in numbers\" section on home page?"
+msgstr ""
+
+#: ../options.php:197
+msgid ""
+"If checked the \"socialchef in numbers\" section will be shown on home page?"
+msgstr ""
+
+#: ../options.php:203
+msgid "Featured recipes page url"
+msgstr ""
+
+#: ../options.php:204
+msgid "Featured recipes page url used in featured recipe widget"
+msgstr ""
+
+#: ../options.php:212
+msgid "Featured members page url"
+msgstr ""
+
+#: ../options.php:213
+msgid "Featured members page url used in featured member widget"
+msgstr ""
+
+#: ../options.php:221 ../options.php:222
+msgid "Submit recipes page url"
+msgstr ""
+
+#: ../options.php:230
+msgid "Home Page"
+msgstr ""
+
+#: ../options.php:234
+msgid "Intro image"
+msgstr ""
+
+#: ../options.php:235
+msgid ""
+"If you want to change the intro image background shown on top of the home "
+"page, upload your replacement here."
+msgstr ""
+
+#: ../options.php:240
+msgid "Frontend submissions"
+msgstr ""
+
+#: ../options.php:244
+msgid "Publish frontend submitted content immediately?"
+msgstr ""
+
+#: ../options.php:245
+msgid ""
+"When users submit content via frontend, do you wish to publish it "
+"immediately or do you leave it for admin to review first?"
+msgstr ""
+
+#: ../options.php:255
+msgid "Disable ingredient amount fractions"
+msgstr ""
+
+#: ../options.php:256
+msgid "Disable converting decimal values of ingredient amounts to fractions"
+msgstr ""
+
+#: ../options.php:262
+msgid "Single recipe permalink slug"
+msgstr ""
+
+#: ../options.php:263
+msgid ""
+"The permalink slug used for single recipes (by default it is set to \"recipe"
+"\". <br /><strong>Note:</strong> Please make sure you flush your rewrite "
+"rules after changing this setting. You can do so by navigating to <a href=\"/"
+"wp-admin/options-permalink.php\">Settings->Permalinks</a> and clicking "
+"\"Save Changes\"."
+msgstr ""
+
+#: ../options.php:269
+msgid "Recipe archive posts per page"
+msgstr ""
+
+#: ../options.php:270
+msgid "Number of recipes to display on recipes archive pages"
+msgstr ""
+
+#: ../options.php:276
+msgid "Enable recipe meta"
+msgstr ""
+
+#: ../options.php:277
+msgid ""
+"Enable use of meal course, prep time, cook time, serving, difficulty across "
+"the theme"
+msgstr ""
+
+#: ../options.php:283
+msgid "Single meal course permalink slug"
+msgstr ""
+
+#: ../options.php:284
+msgid ""
+"The permalink slug used for single meal course (by default it is set to "
+"\"meal-course\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:290
+msgid "Single recipe category permalink slug"
+msgstr ""
+
+#: ../options.php:291
+msgid ""
+"The permalink slug used for single recipe category (by default it is set to "
+"\"recipe-category\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:297
+msgid "Single difficulty permalink slug"
+msgstr ""
+
+#: ../options.php:298
+msgid ""
+"The permalink slug used for single difficulty (by default it is set to "
+"\"meal-course\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:304
+msgid "Enable instructions info"
+msgstr ""
+
+#: ../options.php:305
+msgid "Enable use of instructions across the theme"
+msgstr ""
+
+#: ../options.php:313
+msgid "Enable images for instructions"
+msgstr ""
+
+#: ../options.php:314
+msgid "Enable use of images for each instruction"
+msgstr ""
+
+#: ../options.php:321
+msgid "Enable ingredient info"
+msgstr ""
+
+#: ../options.php:322
+msgid "Enable use of ingredient info across the theme"
+msgstr ""
+
+#: ../options.php:328
+msgid "Single ingredient permalink slug"
+msgstr ""
+
+#: ../options.php:329
+msgid ""
+"The permalink slug used for single ingredient (by default it is set to "
+"\"meal-course\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:335
+msgid "Enable nutritional element info"
+msgstr ""
+
+#: ../options.php:336
+msgid "Enable use of nutritional element info across the theme"
+msgstr ""
+
+#: ../options.php:342
+msgid "Single nutritional element permalink slug"
+msgstr ""
+
+#: ../options.php:343
+msgid ""
+"The permalink slug used for single nutritional element (by default it is set "
+"to \"meal-course\". <br /><strong>Note:</strong> Please make sure you flush "
+"your rewrite rules after changing this setting. You can do so by navigating "
+"to <a href=\"/wp-admin/options-permalink.php\">Settings->Permalinks</a> and "
+"clicking \"Save Changes\"."
+msgstr ""
+
+#: ../options.php:351
+msgid "WooCommerce"
+msgstr ""
+
+#: ../options.php:363
+msgid "WooCommerce pages sidebar position"
+msgstr ""
+
+#: ../options.php:364
+msgid ""
+"Select the position (if any) of sidebars to appear on all WooCommerce-"
+"specific pages of your website."
+msgstr ""
+
+#: ../page-contact.php:19
+msgid ""
+"Thank you for contacting us. We will get back to you as quick as we can!"
+msgstr ""
+
+#: ../page-contact.php:37
+#, php-format
+msgid "%s - Contact Form Submission From %s"
+msgstr ""
+
+#: ../page-contact.php:38
+#, php-format
+msgid ""
+"Name: %s \n"
+"\n"
+"Surname: %s \n"
+"\n"
+"Email: %s \n"
+"\n"
+"Phone: %s\n"
+"\n"
+"Message: %s"
+msgstr ""
+
+#: ../page-contact.php:50
+#, php-format
+msgid ""
+"To submit contact form, please enable JavaScript. <a href=\"%s\">Go back</a> "
+"to form"
+msgstr ""
+
+#: ../page-contact.php:85
+msgid "Your name"
+msgstr ""
+
+#: ../page-contact.php:88
+msgid "Your surname"
+msgstr ""
+
+#: ../page-contact.php:91
+msgid "Your email"
+msgstr ""
+
+#: ../page-contact.php:94
+msgid "Your phone number"
+msgstr ""
+
+#: ../page-contact.php:97
+msgid "Your message"
+msgstr ""
+
+#: ../page-contact.php:101
+msgid "Send message"
+msgstr ""
+
+#: ../page-custom-search.php:188 ../page-custom-search.php:195
+msgid "Search by ingredients"
+msgstr ""
+
+#: ../page-custom-search.php:189
+msgid "Classic search"
+msgstr ""
+
+#: ../page-custom-search.php:196
+msgid ""
+"Click the '-' to remove an ingredient, or click the ingredient itself to "
+"emphasize"
+msgstr ""
+
+#: ../page-custom-search.php:198
+msgid "Add ingredients (one at a time)"
+msgstr ""
+
+#: ../page-custom-search.php:208
+msgid "Do you also have?"
+msgstr ""
+
+#: ../page-custom-search.php:222
+msgid "Please select your search parameters and press \"Search for recipes\""
+msgstr ""
+
+#: ../page-custom-search.php:226
+msgid "Recipe name"
+msgstr ""
+
+#: ../page-custom-search.php:301
+msgid "Maximum serving size"
+msgstr ""
+
+#: ../page-custom-search.php:312
+msgid "Max cooking time"
+msgstr ""
+
+#: ../page-custom-search.php:323
+msgid "Max preparation time"
+msgstr ""
+
+#: ../page-custom-search.php:367
+msgid ""
+"Unfortunately no results were found for your query. Please try searching for "
+"something else."
+msgstr ""
+
+#: ../page-user-login.php:93
+msgid "Incorrect username or password. Please try again."
+msgstr ""
+
+#: ../page-user-login.php:96
+msgid "Your username"
+msgstr ""
+
+#: ../page-user-login.php:99
+msgid "Your password"
+msgstr ""
+
+#: ../page-user-login.php:104
+msgid "Remember me next time"
+msgstr ""
+
+#: ../page-user-login.php:109 ../page-user-signup.php:226
+msgid "Login"
+msgstr ""
+
+#: ../page-user-login.php:111
+#, php-format
+msgid "<a href='%s'>Forgotten password?</a>"
+msgstr ""
+
+#: ../page-user-login.php:112
+#, php-format
+msgid "Don't have an account yet? <a href='%s'>Sign up.</a>"
+msgstr ""
+
+#: ../page-user-password-reset.php:44 ../page-user-password-reset.php:46
+msgid "You must enter a valid and existing email address or username."
+msgstr ""
+
+#: ../page-user-password-reset.php:105
+msgid ""
+"Please confirm the request to reset your password by clicking the link sent "
+"to your email address."
+msgstr ""
+
+#: ../page-user-password-reset.php:115
+msgid ""
+"Your password was successfully reset. We have sent the new password to your "
+"email address."
+msgstr ""
+
+#: ../page-user-password-reset.php:120
+msgid ""
+"We encountered an error when attempting to reset your password. Please try "
+"again later."
+msgstr ""
+
+#: ../page-user-password-reset.php:130
+msgid "Username or email address"
+msgstr ""
+
+#: ../page-user-password-reset.php:135
+msgid "Reset password"
+msgstr ""
+
+#: ../page-user-signup.php:69
+msgid "Username is required."
+msgstr ""
+
+#: ../page-user-signup.php:72
+msgid "Sorry, username must be 6 characters or more."
+msgstr ""
+
+#: ../page-user-signup.php:75
+msgid "Sorry, the username you provided is invalid."
+msgstr ""
+
+#: ../page-user-signup.php:78
+msgid "Sorry, that username already exists."
+msgstr ""
+
+#: ../page-user-signup.php:84
+msgid "Password is required."
+msgstr ""
+
+#: ../page-user-signup.php:87
+msgid "Sorry, password must be 6 characters or more."
+msgstr ""
+
+#: ../page-user-signup.php:90
+msgid "Password and repeat password fields must match."
+msgstr ""
+
+#: ../page-user-signup.php:96
+msgid "You must enter a valid email address."
+msgstr ""
+
+#: ../page-user-signup.php:99
+msgid "Sorry, that email address is already in use."
+msgstr ""
+
+#: ../page-user-signup.php:104
+msgid "You must agree to our terms &amp; conditions to sign up."
+msgstr ""
+
+#: ../page-user-signup.php:167
+msgid ""
+"Account was successfully created. Please click the activation link in the "
+"email we just sent you to complete the registration process."
+msgstr ""
+
+#: ../page-user-signup.php:173
+msgid "User account successfully activated."
+msgstr ""
+
+#: ../page-user-signup.php:178
+msgid "An error was encountered when attempting to activate your account."
+msgstr ""
+
+#: ../page-user-signup.php:185
+msgid "Activation link was successfully sent."
+msgstr ""
+
+#: ../page-user-signup.php:190
+msgid ""
+"An error was encountered when attempting to send the activation link. Please "
+"try again later."
+msgstr ""
+
+#: ../page-user-signup.php:197
+msgid ""
+"Errors were encountered during signup form processing. Please try again."
+msgstr ""
+
+#: ../page-user-signup.php:218
+#, php-format
+msgid "I agree to the <a href=\"%s\">terms &amp; conditions</a>."
+msgstr ""
+
+#: ../page-user-signup.php:228
+#, php-format
+msgid "<a href='%s'>Forgotten your password?</a>"
+msgstr ""
+
+#: ../page-user-signup.php:229
+#, php-format
+msgid "Already a member? <a href='%s'>Login.</a>"
+msgstr ""
+
+#: ../search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../sidebar-right-recipe.php:1
+msgid "Nutrition facts <span>(per serving)</span>"
+msgstr ""
+
+#: ../single-recipe.php:16 ../single-recipe.php:153 ../single-recipe.php:158
+msgid "Add to favorites"
+msgstr ""
+
+#: ../single-recipe.php:17 ../single-recipe.php:150
+msgid "Remove from favorites"
+msgstr ""
+
+#: ../single-recipe.php:95 ../single-recipe.php:99
+msgid "mins"
+msgstr ""
+
+#: ../single-recipe.php:108
+msgid "Serves"
+msgstr ""
+
+#: ../single-recipe.php:109
+msgid "people"
+msgstr ""
+
+#: ../single-recipe.php:118
+msgid "Posted by"
+msgstr ""
+
+#: ../single-recipe.php:120
+msgid "Posted on"
+msgstr ""
+
+#: ../single-recipe.php:163
+msgid "Print recipe"
+msgstr ""
+
+#: ../tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../taxonomy-ingredient.php:18
+#, php-format
+msgid "Ingredient Archives: %s"
+msgstr ""
+
+#: ../taxonomy-recipe_difficulty.php:18
+#, php-format
+msgid "Difficulty Archives: %s"
+msgstr ""
+
+#: ../taxonomy-recipe_meal_course.php:18
+#, php-format
+msgid "Meal Course Archives: %s"
+msgstr ""

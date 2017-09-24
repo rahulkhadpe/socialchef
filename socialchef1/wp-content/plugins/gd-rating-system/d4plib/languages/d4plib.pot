@@ -1,0 +1,1127 @@
+#: admin/d4p.functions.php:226
+#: admin/d4p.settings.php:493
+#: admin/d4p.settings.php:526
+msgid "Check All"
+msgstr ""
+
+#: admin/d4p.functions.php:227
+#: admin/d4p.settings.php:494
+#: admin/d4p.settings.php:527
+msgid "Uncheck All"
+msgstr ""
+
+#: admin/d4p.settings.php:299
+msgid "Add Image"
+msgstr ""
+
+#: admin/d4p.settings.php:303
+msgid "No images selected."
+msgstr ""
+
+#: admin/d4p.settings.php:327
+msgid "Select Image"
+msgstr ""
+
+#: admin/d4p.settings.php:328
+msgid "Show Image"
+msgstr ""
+
+#: admin/d4p.settings.php:329
+msgid "Clear Image"
+msgstr ""
+
+#: admin/d4p.settings.php:332
+msgid "Image not selected."
+msgstr ""
+
+#: admin/d4p.settings.php:633
+msgid "Add New Value"
+msgstr ""
+
+#: classes/d4p.admin.php:77
+#: plugin/d4p.admin.php:113
+msgid "Home Page"
+msgstr ""
+
+#: classes/d4p.admin.php:78
+#: plugin/d4p.admin.php:114
+msgid "Knowledge Base"
+msgstr ""
+
+#: classes/d4p.admin.php:79
+#: plugin/d4p.admin.php:115
+msgid "Support Forum"
+msgstr ""
+
+#: classes/d4p.admin.php:89
+#: plugin/d4p.admin.php:125
+msgid "Getting Help"
+msgstr ""
+
+#: classes/d4p.admin.php:90
+#: plugin/d4p.admin.php:126
+msgid "To get help with this plugin, you can start with Knowledge Base list of frequently asked questions and articles. If you have any questions, or you want to report a bug, or you have a suggestion, you can use support forum. All important links for this are on the right side of this help dialog."
+msgstr ""
+
+#: classes/d4p.freegeoip.php:48
+#: classes/d4p.geoplugin.php:48
+msgid "Localhost IP's can't be geolocated."
+msgstr ""
+
+#: classes/d4p.freegeoip.php:146
+#: classes/d4p.geoplugin.php:156
+msgid "Localhost"
+msgstr ""
+
+#: classes/d4p.freegeoip.php:150
+#: classes/d4p.geoplugin.php:160
+msgid "IP can't be geolocated."
+msgstr ""
+
+#: units/d4p.angle.php:15
+#: d4p.units.php:70
+msgid "Angle"
+msgstr ""
+
+#: units/d4p.angle.php:18
+msgid "Radian"
+msgstr ""
+
+#: units/d4p.angle.php:19
+msgid "Grad"
+msgstr ""
+
+#: units/d4p.angle.php:20
+msgid "Degree"
+msgstr ""
+
+#: units/d4p.angle.php:21
+#: units/d4p.time.php:22
+msgid "Minute"
+msgstr ""
+
+#: units/d4p.angle.php:22
+#: units/d4p.time.php:21
+msgid "Second"
+msgstr ""
+
+#: units/d4p.angle.php:23
+msgid "Revolution"
+msgstr ""
+
+#: units/d4p.area.php:15
+#: d4p.units.php:71
+msgid "Area"
+msgstr ""
+
+#: units/d4p.area.php:30
+msgid "Square Meter"
+msgstr ""
+
+#: units/d4p.area.php:31
+msgid "Square Kilometer"
+msgstr ""
+
+#: units/d4p.area.php:32
+msgid "Square Centimeter"
+msgstr ""
+
+#: units/d4p.area.php:33
+msgid "Square Millimeter"
+msgstr ""
+
+#: units/d4p.area.php:34
+msgid "Square Micrometer"
+msgstr ""
+
+#: units/d4p.area.php:35
+msgid "Square Inch"
+msgstr ""
+
+#: units/d4p.area.php:36
+msgid "Square Mile"
+msgstr ""
+
+#: units/d4p.area.php:37
+msgid "Square Foot"
+msgstr ""
+
+#: units/d4p.area.php:38
+msgid "Square Yard"
+msgstr ""
+
+#: units/d4p.area.php:39
+msgid "Are"
+msgstr ""
+
+#: units/d4p.area.php:40
+msgid "Hectare"
+msgstr ""
+
+#: units/d4p.area.php:41
+msgid "Acre"
+msgstr ""
+
+#: units/d4p.brightness.php:15
+#: d4p.units.php:72
+msgid "Brightness"
+msgstr ""
+
+#: units/d4p.brightness.php:25
+msgid "Stilb"
+msgstr ""
+
+#: units/d4p.brightness.php:26
+msgid "Candela / square centimeter"
+msgstr ""
+
+#: units/d4p.brightness.php:27
+msgid "Candela / square meter"
+msgstr ""
+
+#: units/d4p.brightness.php:28
+msgid "Candela / square inch"
+msgstr ""
+
+#: units/d4p.brightness.php:29
+msgid "Candela / square foot"
+msgstr ""
+
+#: units/d4p.brightness.php:30
+msgid "Lambert"
+msgstr ""
+
+#: units/d4p.brightness.php:31
+msgid "FootLambert"
+msgstr ""
+
+#: units/d4p.brightness.php:32
+msgid "MeterLambert"
+msgstr ""
+
+#: units/d4p.brightness.php:33
+msgid "MilliLambert"
+msgstr ""
+
+#: units/d4p.currency_ecb.php:16
+#: d4p.units.php:74
+msgid "Currency (European Central Bank)"
+msgstr ""
+
+#: units/d4p.currency_google.php:16
+#: d4p.units.php:73
+msgid "Currency (Google)"
+msgstr ""
+
+#: units/d4p.currency_oer.php:18
+#: d4p.units.php:75
+msgid "Currency (Open Exchange Rates)"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:15
+#: d4p.units.php:77
+msgid "Electrical Charge"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:18
+msgid "Coulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:19
+msgid "Nanocoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:20
+msgid "Microcoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:21
+msgid "Millicoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:22
+msgid "Kilocoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:23
+msgid "Megacoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:24
+msgid "Gigacoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:25
+msgid "Abcoulomb"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:26
+msgid "Electromagnetic unit of charge"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:27
+msgid "Electrostatic unit of chargee"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:28
+msgid "Faraday"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:29
+msgid "Franklin"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:30
+msgid "Ampere Hour"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:31
+msgid "Ampere Minute"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:32
+msgid "Ampere Second"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:33
+msgid "Milliampere Hour"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:34
+msgid "Milliampere Minute"
+msgstr ""
+
+#: units/d4p.electrical_charge.php:35
+msgid "Milliampere Second"
+msgstr ""
+
+#: units/d4p.electric_current.php:15
+#: d4p.units.php:76
+msgid "Electric Current"
+msgstr ""
+
+#: units/d4p.electric_current.php:18
+msgid "Ampere"
+msgstr ""
+
+#: units/d4p.electric_current.php:19
+msgid "Milliampere"
+msgstr ""
+
+#: units/d4p.electric_current.php:20
+msgid "Abamper"
+msgstr ""
+
+#: units/d4p.electric_current.php:21
+msgid "Megampere"
+msgstr ""
+
+#: units/d4p.electric_current.php:22
+msgid "Statampere"
+msgstr ""
+
+#: units/d4p.energy.php:16
+#: d4p.units.php:78
+msgid "Energy"
+msgstr ""
+
+#: units/d4p.energy.php:19
+msgid "Watt Hour"
+msgstr ""
+
+#: units/d4p.energy.php:20
+msgid "Watt Second"
+msgstr ""
+
+#: units/d4p.energy.php:21
+msgid "Milliwatt Hour"
+msgstr ""
+
+#: units/d4p.energy.php:22
+#: units/d4p.energy.php:23
+msgid "Kilowatt Hour"
+msgstr ""
+
+#: units/d4p.energy.php:24
+msgid "Gigawatt Hour"
+msgstr ""
+
+#: units/d4p.energy.php:25
+msgid "Calorie"
+msgstr ""
+
+#: units/d4p.energy.php:26
+msgid "Kilocalorie"
+msgstr ""
+
+#: units/d4p.energy.php:27
+msgid "Joule"
+msgstr ""
+
+#: units/d4p.energy.php:28
+msgid "Kilojoule"
+msgstr ""
+
+#: units/d4p.energy.php:29
+msgid "Megajoule"
+msgstr ""
+
+#: units/d4p.energy.php:30
+msgid "Gigajoule"
+msgstr ""
+
+#: units/d4p.energy.php:31
+msgid "Microjoule"
+msgstr ""
+
+#: units/d4p.energy.php:32
+msgid "Millijoule"
+msgstr ""
+
+#: units/d4p.frequency.php:15
+#: d4p.units.php:79
+msgid "Frequency"
+msgstr ""
+
+#: units/d4p.frequency.php:18
+msgid "Hertz"
+msgstr ""
+
+#: units/d4p.frequency.php:19
+msgid "Kilohertz"
+msgstr ""
+
+#: units/d4p.frequency.php:20
+msgid "Megahertz"
+msgstr ""
+
+#: units/d4p.frequency.php:21
+msgid "Gigahertz"
+msgstr ""
+
+#: units/d4p.frequency.php:22
+msgid "Terahertz"
+msgstr ""
+
+#: units/d4p.frequency.php:23
+msgid "Millihertz"
+msgstr ""
+
+#: units/d4p.frequency.php:24
+msgid "Radian / Hour"
+msgstr ""
+
+#: units/d4p.frequency.php:25
+msgid "Radian / Minute"
+msgstr ""
+
+#: units/d4p.frequency.php:26
+msgid "Radian / Second"
+msgstr ""
+
+#: units/d4p.frequency.php:27
+msgid "Degree / Hour"
+msgstr ""
+
+#: units/d4p.frequency.php:28
+msgid "Degree / Minute"
+msgstr ""
+
+#: units/d4p.frequency.php:29
+msgid "Degree / Second"
+msgstr ""
+
+#: units/d4p.frequency.php:30
+msgid "Cycle / Second"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:15
+#: d4p.units.php:80
+msgid "Fuel Consumption"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:29
+msgid "Liter/100 Kilometer"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:30
+msgid "Liter/100 Mile"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:31
+msgid "Kilometer/Liter"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:32
+msgid "Mile/Liter"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:33
+msgid "Kilometer/Gallon - UK"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:34
+msgid "Kilometer/Gallon - US"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:35
+msgid "Mile/Gallon - UK"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:36
+msgid "Mile/Gallon - US"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:37
+msgid "Gallon/100 Kilometer - UK"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:38
+msgid "Gallon/100 Kilometer - US"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:39
+msgid "Gallon/100 Mile - UK"
+msgstr ""
+
+#: units/d4p.fuel_consumption.php:40
+msgid "Gallon/100 Mile - US"
+msgstr ""
+
+#: units/d4p.illumination.php:15
+#: d4p.units.php:81
+msgid "Illumination"
+msgstr ""
+
+#: units/d4p.illumination.php:25
+msgid "Lux"
+msgstr ""
+
+#: units/d4p.illumination.php:26
+msgid "Phot"
+msgstr ""
+
+#: units/d4p.illumination.php:27
+msgid "Nox"
+msgstr ""
+
+#: units/d4p.illumination.php:28
+msgid "Flame"
+msgstr ""
+
+#: units/d4p.illumination.php:29
+msgid "Lumen on Square Meter"
+msgstr ""
+
+#: units/d4p.illumination.php:30
+msgid "Lumen on Square Centimeter"
+msgstr ""
+
+#: units/d4p.illumination.php:31
+msgid "Lumen on Square Foot"
+msgstr ""
+
+#: units/d4p.length.php:15
+#: d4p.units.php:82
+msgid "Lenght or Distance"
+msgstr ""
+
+#: units/d4p.length.php:23
+msgid "Picometre"
+msgstr ""
+
+#: units/d4p.length.php:24
+msgid "Nanometre"
+msgstr ""
+
+#: units/d4p.length.php:25
+msgid "Micrometre"
+msgstr ""
+
+#: units/d4p.length.php:26
+msgid "Millimeter"
+msgstr ""
+
+#: units/d4p.length.php:27
+msgid "Centimeter"
+msgstr ""
+
+#: units/d4p.length.php:28
+msgid "Decimeter"
+msgstr ""
+
+#: units/d4p.length.php:29
+msgid "Meter"
+msgstr ""
+
+#: units/d4p.length.php:30
+msgid "Kilometer"
+msgstr ""
+
+#: units/d4p.length.php:31
+msgid "Point"
+msgstr ""
+
+#: units/d4p.length.php:32
+msgid "Micro Inch"
+msgstr ""
+
+#: units/d4p.length.php:33
+msgid "Inch"
+msgstr ""
+
+#: units/d4p.length.php:34
+msgid "Feet"
+msgstr ""
+
+#: units/d4p.length.php:35
+msgid "Yard"
+msgstr ""
+
+#: units/d4p.length.php:36
+msgid "Mile"
+msgstr ""
+
+#: units/d4p.length.php:37
+msgid "Nautical Mile"
+msgstr ""
+
+#: units/d4p.memory.php:15
+#: d4p.units.php:83
+msgid "Memory"
+msgstr ""
+
+#: units/d4p.memory.php:18
+msgid "Bit"
+msgstr ""
+
+#: units/d4p.memory.php:19
+msgid "Byte"
+msgstr ""
+
+#: units/d4p.memory.php:20
+msgid "Kilobyte"
+msgstr ""
+
+#: units/d4p.memory.php:21
+msgid "Megabyte"
+msgstr ""
+
+#: units/d4p.memory.php:22
+msgid "Gigabyte"
+msgstr ""
+
+#: units/d4p.memory.php:23
+msgid "Terabyte"
+msgstr ""
+
+#: units/d4p.memory.php:24
+msgid "Petabyte"
+msgstr ""
+
+#: units/d4p.memory.php:25
+msgid "1 CD 74min"
+msgstr ""
+
+#: units/d4p.memory.php:26
+msgid "1 CD 80min"
+msgstr ""
+
+#: units/d4p.memory.php:27
+msgid "1 DVD"
+msgstr ""
+
+#: units/d4p.memory.php:28
+msgid "1 DVD Dual Layer"
+msgstr ""
+
+#: units/d4p.memory.php:29
+msgid "1 BD"
+msgstr ""
+
+#: units/d4p.memory.php:30
+msgid "1 BD Dual Layer"
+msgstr ""
+
+#: units/d4p.power.php:15
+#: d4p.units.php:84
+msgid "Power"
+msgstr ""
+
+#: units/d4p.power.php:18
+msgid "Watt"
+msgstr ""
+
+#: units/d4p.power.php:19
+msgid "Kilowatt"
+msgstr ""
+
+#: units/d4p.power.php:20
+msgid "Megawatt"
+msgstr ""
+
+#: units/d4p.power.php:21
+msgid "Gigawatt"
+msgstr ""
+
+#: units/d4p.power.php:22
+msgid "Horsepower"
+msgstr ""
+
+#: units/d4p.power.php:23
+msgid "Horsepower metric"
+msgstr ""
+
+#: units/d4p.power.php:24
+msgid "Millihorsepower"
+msgstr ""
+
+#: units/d4p.power.php:25
+msgid "Calorie / hour"
+msgstr ""
+
+#: units/d4p.power.php:26
+msgid "Calorie / minute"
+msgstr ""
+
+#: units/d4p.power.php:27
+msgid "Calorie / second"
+msgstr ""
+
+#: units/d4p.power.php:28
+msgid "Joule / hour"
+msgstr ""
+
+#: units/d4p.power.php:29
+msgid "Joule / minute"
+msgstr ""
+
+#: units/d4p.power.php:30
+msgid "Joule / second"
+msgstr ""
+
+#: units/d4p.sound.php:15
+#: d4p.units.php:85
+msgid "Sound"
+msgstr ""
+
+#: units/d4p.sound.php:18
+msgid "Bel"
+msgstr ""
+
+#: units/d4p.sound.php:19
+msgid "Decibel"
+msgstr ""
+
+#: units/d4p.sound.php:20
+msgid "Neper"
+msgstr ""
+
+#: units/d4p.speed.php:15
+#: d4p.units.php:86
+msgid "Speed"
+msgstr ""
+
+#: units/d4p.speed.php:18
+msgid "Meters per second"
+msgstr ""
+
+#: units/d4p.speed.php:19
+msgid "Kilometers per hour"
+msgstr ""
+
+#: units/d4p.speed.php:20
+msgid "Miles per hour"
+msgstr ""
+
+#: units/d4p.speed.php:21
+msgid "Knots"
+msgstr ""
+
+#: units/d4p.temperature.php:15
+#: d4p.units.php:87
+msgid "Temperature"
+msgstr ""
+
+#: units/d4p.temperature.php:18
+msgid "Celsius"
+msgstr ""
+
+#: units/d4p.temperature.php:19
+msgid "Fahrenheit"
+msgstr ""
+
+#: units/d4p.temperature.php:20
+msgid "Kelvin"
+msgstr ""
+
+#: units/d4p.temperature.php:21
+msgid "Reaumur"
+msgstr ""
+
+#: units/d4p.time.php:15
+#: d4p.units.php:88
+msgid "Time"
+msgstr ""
+
+#: units/d4p.time.php:18
+msgid "Nanosecond"
+msgstr ""
+
+#: units/d4p.time.php:19
+msgid "Microsecond"
+msgstr ""
+
+#: units/d4p.time.php:20
+msgid "Millisecond"
+msgstr ""
+
+#: units/d4p.time.php:23
+msgid "Hour"
+msgstr ""
+
+#: units/d4p.time.php:24
+msgid "Day"
+msgstr ""
+
+#: units/d4p.time.php:25
+msgid "Week"
+msgstr ""
+
+#: units/d4p.time.php:26
+msgid "Month"
+msgstr ""
+
+#: units/d4p.time.php:27
+msgid "Year"
+msgstr ""
+
+#: units/d4p.time.php:28
+msgid "Century"
+msgstr ""
+
+#: units/d4p.time.php:29
+msgid "Millennium"
+msgstr ""
+
+#: units/d4p.torque.php:15
+#: d4p.units.php:89
+msgid "Torque"
+msgstr ""
+
+#: units/d4p.torque.php:22
+msgid "Newton Meter"
+msgstr ""
+
+#: units/d4p.torque.php:23
+msgid "Newton Centimeter"
+msgstr ""
+
+#: units/d4p.torque.php:24
+msgid "Newton Millimeter"
+msgstr ""
+
+#: units/d4p.torque.php:25
+msgid "Kilonewton Meter"
+msgstr ""
+
+#: units/d4p.torque.php:26
+msgid "Meganewton Meter"
+msgstr ""
+
+#: units/d4p.torque.php:27
+msgid "Micronewton Meter"
+msgstr ""
+
+#: units/d4p.torque.php:28
+msgid "Dyne Centimeter"
+msgstr ""
+
+#: units/d4p.torque.php:29
+msgid "Dyne Meter"
+msgstr ""
+
+#: units/d4p.torque.php:30
+msgid "Dyne Millimeter"
+msgstr ""
+
+#: units/d4p.torque.php:31
+msgid "Ounce Force Feet"
+msgstr ""
+
+#: units/d4p.torque.php:32
+msgid "Ounce Force Inch"
+msgstr ""
+
+#: units/d4p.torque.php:33
+msgid "Pound Force Feet"
+msgstr ""
+
+#: units/d4p.torque.php:34
+msgid "Pound Force Inch"
+msgstr ""
+
+#: units/d4p.torque.php:35
+msgid "Gram Force Centimeter"
+msgstr ""
+
+#: units/d4p.torque.php:36
+msgid "Gram Force Meter"
+msgstr ""
+
+#: units/d4p.torque.php:37
+msgid "Gram Force Millimeter"
+msgstr ""
+
+#: units/d4p.torque.php:38
+msgid "Kilogram Force Centimeter"
+msgstr ""
+
+#: units/d4p.torque.php:39
+msgid "Kilogram Force Meter"
+msgstr ""
+
+#: units/d4p.torque.php:40
+msgid "Kilogram Force Millimeter"
+msgstr ""
+
+#: units/d4p.volume.php:15
+#: d4p.units.php:90
+msgid "Volume"
+msgstr ""
+
+#: units/d4p.volume.php:41
+msgid "Liter"
+msgstr ""
+
+#: units/d4p.volume.php:42
+msgid "Deciliter"
+msgstr ""
+
+#: units/d4p.volume.php:43
+msgid "Centiliter"
+msgstr ""
+
+#: units/d4p.volume.php:44
+msgid "Milliliter"
+msgstr ""
+
+#: units/d4p.volume.php:45
+msgid "Microliter"
+msgstr ""
+
+#: units/d4p.volume.php:46
+msgid "Decaliter"
+msgstr ""
+
+#: units/d4p.volume.php:47
+msgid "Hectoliter"
+msgstr ""
+
+#: units/d4p.volume.php:48
+msgid "Cubic Decimeter"
+msgstr ""
+
+#: units/d4p.volume.php:49
+msgid "Cubic Centimeter"
+msgstr ""
+
+#: units/d4p.volume.php:50
+msgid "Cubic Millimeter"
+msgstr ""
+
+#: units/d4p.volume.php:51
+msgid "Cubic Meter"
+msgstr ""
+
+#: units/d4p.volume.php:52
+msgid "Cubic Kilometer"
+msgstr ""
+
+#: units/d4p.volume.php:53
+msgid "Cup"
+msgstr ""
+
+#: units/d4p.volume.php:54
+msgid "Table spoon"
+msgstr ""
+
+#: units/d4p.volume.php:55
+msgid "Teas spoon"
+msgstr ""
+
+#: units/d4p.volume.php:56
+msgid "Cup / US"
+msgstr ""
+
+#: units/d4p.volume.php:57
+msgid "Table spoon / US"
+msgstr ""
+
+#: units/d4p.volume.php:58
+msgid "Teas spoon / US"
+msgstr ""
+
+#: units/d4p.volume.php:59
+msgid "Barrel Petroleum / US"
+msgstr ""
+
+#: units/d4p.volume.php:60
+msgid "Gallon / US"
+msgstr ""
+
+#: units/d4p.volume.php:61
+msgid "Quart / US"
+msgstr ""
+
+#: units/d4p.volume.php:62
+msgid "Pint / US"
+msgstr ""
+
+#: units/d4p.volume.php:63
+msgid "Barrel Dry / US"
+msgstr ""
+
+#: units/d4p.volume.php:64
+msgid "Bushel / US"
+msgstr ""
+
+#: units/d4p.volume.php:65
+msgid "Gallon Dry / US"
+msgstr ""
+
+#: units/d4p.volume.php:66
+msgid "Quart Dry / US"
+msgstr ""
+
+#: units/d4p.volume.php:67
+msgid "Pint Dry / US"
+msgstr ""
+
+#: units/d4p.volume.php:68
+msgid "Bushel / UK"
+msgstr ""
+
+#: units/d4p.volume.php:69
+msgid "Gallon / UK"
+msgstr ""
+
+#: units/d4p.volume.php:70
+msgid "Quart / UK"
+msgstr ""
+
+#: units/d4p.volume.php:71
+msgid "Pint / UK"
+msgstr ""
+
+#: units/d4p.weight.php:15
+#: d4p.units.php:91
+msgid "Weight / Mass"
+msgstr ""
+
+#: units/d4p.weight.php:18
+msgid "Milligram"
+msgstr ""
+
+#: units/d4p.weight.php:19
+msgid "Gram"
+msgstr ""
+
+#: units/d4p.weight.php:20
+msgid "Kilogram"
+msgstr ""
+
+#: units/d4p.weight.php:21
+msgid "Tonne"
+msgstr ""
+
+#: units/d4p.weight.php:22
+msgid "Ounce"
+msgstr ""
+
+#: units/d4p.weight.php:23
+msgid "Pound"
+msgstr ""
+
+#: units/d4p.weight.php:24
+msgid "Stone"
+msgstr ""
+
+#: units/d4p.weight.php:25
+msgid "Quarter"
+msgstr ""
+
+#: units/d4p.weight.php:26
+msgid "Carat"
+msgstr ""
+
+#: d4p.debug.php:52
+msgid "SQL Queries"
+msgstr ""
+
+#: d4p.debug.php:55
+msgid "Total Page Time"
+msgstr ""
+
+#: d4p.debug.php:56
+msgid "seconds"
+msgstr ""
+
+#: d4p.debug.php:60
+msgid "PHP Memory Peak"
+msgstr ""
+
+#: d4p.debug.php:66
+msgid "PHP Memory Final"
+msgstr ""
+
+#: d4p.debug.php:118
+msgid "Request"
+msgstr ""
+
+#: d4p.debug.php:119
+#: d4p.debug.php:122
+#: d4p.debug.php:125
+msgid "None"
+msgstr ""
+
+#: d4p.debug.php:121
+msgid "Matched Rewrite Rule"
+msgstr ""
+
+#: d4p.debug.php:124
+msgid "Matched Rewrite Query"
+msgstr ""
+
+#: d4p.debug.php:127
+msgid "Loaded Template"
+msgstr ""
+
+#: d4p.units.php:73
+msgid "Google"
+msgstr ""
+
+#: d4p.units.php:74
+msgid "European Central Bank"
+msgstr ""
+
+#: d4p.units.php:75
+msgid "Open Exchange Rates"
+msgstr ""
+
+#: d4p.wp.php:53
+msgid "Clear"
+msgstr ""
+
+#: d4p.wp.php:54
+msgid "Default"
+msgstr ""
+
+#: d4p.wp.php:55
+msgid "Select Color"
+msgstr ""
+
+#: d4p.wp.php:56
+msgid "Current Color"
+msgstr ""
+
